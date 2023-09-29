@@ -14,8 +14,7 @@ public:
         empSalary = 0.0;
         empCode = 0;
     }
-
-    // Parameterized constructor
+ 
     Employee(string name, double salary, int code) {
         empName = name;
         empSalary = salary;
